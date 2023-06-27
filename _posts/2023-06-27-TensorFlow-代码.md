@@ -1,4 +1,9 @@
-[TOC]
+---
+title: TensorFlow-代码合集
+tags: explain
+author: zikang
+---
+这是一个TensorFlow的代码合集
 
 # 四层神经网络
 ## four-layer-net 权重函数
