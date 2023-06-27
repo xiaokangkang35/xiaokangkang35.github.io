@@ -3,8 +3,10 @@ title: TensorFlow-代码合集
 tags: explain
 author: zikang
 ---
+
 这是一个TensorFlow的代码合集
 
+---
 # 四层神经网络
 ## four-layer-net 权重函数
 ```python
@@ -896,3 +898,4 @@ if __name__ == '__main__':
     print(result)
     print(label_name_dict)
 ```
+---
